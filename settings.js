@@ -16,24 +16,24 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
+  OWNER_NUMBER: "923346690239",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NAME: "『 malik 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://i.ibb.co/YTW9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGEWQ.jpg',
+    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "onlygroups"anyone profile,
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
@@ -44,7 +44,7 @@ module.exports = {
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
-        BLOCK : false,
+        BLOCK : true,
         NOT_WORKING : false,
   },
   READ : {
@@ -54,30 +54,31 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : yrue,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
-    "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
-    "tance" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-tance0.mp3",
-    "romant" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-floot.mp3",
-    "serio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-serio.mp3",
-    "chill" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-wichil.mp3",
-    "yaka" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-yaka.mp3",
-    "animel" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-animel.mp3",
-    "bitch" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bitch.mp3",
-    "papa" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
-    "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
-    "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
+    "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-le3",
+    "tance" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYance0.mp3",
+    "romant" : "https://ghub.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/CO-floot.mp3",
+    "serio" : "https://giub.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audiosSYCO-serio.mp3",
+    "chill" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audioZUSYCO-wichil.mp3",
+    "yaka" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSY
+     CO-yaka.mp3",
+    "animel" : "https://gitb.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUO-animel.mp3",
+    "bitch" : "https://hub.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bitch.mp3",
+    "papa" : "https://githucom/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZYC-papa.mp3",
+    "shee" : "https://githubom/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
+    "thugs" : "https://github.com/MR--X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
   AUTO_STICKER : false,
   STICKERS : {
-    "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
-    "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
-    "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
+    "pit" : "https://i.ibb.co/NVLMP/pit.webp",
+    "agei" : "https://i.ibb./yqk8QQ9/agei.webp",
+    "ne" : "https://i.ibb/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
