@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : yrue,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '🤵‍♂️'anyone,
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
